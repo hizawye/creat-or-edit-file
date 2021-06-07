@@ -1,3 +1,8 @@
+"""
+Simple code to handle file notfound error
+It's small simple library.
+"""
+
 from sys import exit
 class checkFile:
 	def __init__(self,filename):
